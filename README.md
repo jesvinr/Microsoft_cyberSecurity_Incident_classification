@@ -1,4 +1,4 @@
-***Microsoft Cyber Security Incident Project***
+# Microsoft Cyber Security Incident Project
 
 **Overview**
 
