@@ -18,6 +18,6 @@ This project involves building a machine learning model to predict outcomes for 
 **Tools & Technologies Used**
 - Programming Language: Python
 - Libraries:
- - - Pandas: For data manipulation and handling missing values.
- - - Matplotlib/Seaborn: For data visualization and correlation heatmaps.
- - - Scikit-Learn: For machine learning algorithms, cross-validation, and hyperparameter tuning.
+  - Pandas: For data manipulation and handling missing values.
+  - Matplotlib/Seaborn: For data visualization and correlation heatmaps.
+  - Scikit-Learn: For machine learning algorithms, cross-validation, and hyperparameter tuning.
