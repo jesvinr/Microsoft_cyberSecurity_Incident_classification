@@ -66,11 +66,12 @@ After tuning the Random Forest model, the test.csv dataset was used for final pr
 - Best Model: Random Forest
 - Cross-Validation: Used to verify the consistency of model performance.
 - Grid Search: Performed to fine-tune the hyperparameters for optimal performance.
+- **check out notebook file in** => https://colab.research.google.com/drive/1OXZs_QcAzJCqFH9u2sKJPyY0eAr0Kjm_#scrollTo=DzhttSYZIT5g
 
 ## Conclusion
 The Random Forest model provided the best performance on this cybersecurity dataset, with an accuracy of 86% on the training set and 70% on the test set. The project also highlights the importance of EDA, handling missing values, and using hyperparameter tuning to achieve optimal results.
 
 ## Future Work
-- Further improve model performance by exploring advanced techniques like Ensemble Methods.
+- Further improve model performance by exploring advanced techniques like **Ensemble Methods**.
 - Explore feature engineering to derive new, relevant features.
-- Experiment with additional algorithms like XGBoost or LightGBM for better performance.
+- Experiment with additional algorithms like **XGBoost** or **LightGBM** for better performance.
